@@ -9,7 +9,7 @@ carpentry: "swc"
 title: "Workshop Title"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: training@esciencecenter.nl
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -36,6 +36,9 @@ workshop_repo: "https://github.com/swcarpentry/workshop-template"
 workshop_site: "https://swcarpentry.github.io/workshop-template"
 training_site: "https://swcarpentry.github.io/instructor-training"
 swc_installer: "https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe"
+nlesc_site: "https://esciencecenter.nl"
+c_of_c: "https://github.com/NLeSC/code-of-conduct/blob/master/README.md"
+
 
 # Surveys.
 swc_pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
