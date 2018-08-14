@@ -222,9 +222,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   These are some recommended readings:
 </p>
 
-- <a href="materials/Gudbjartsson1995.pdf">Reading 1</a>
-- <a href="materials/pm2014_pre.pdf">Reading 2</a>
-- <a href="materials/Sijbers2002.pdf">Reading 3</a>
+- <a href="material/Gudbjartsson1995.pdf">Reading 1</a>
+- <a href="material/pm2014_pre.pdf">Reading 2</a>
+- <a href="material/Sijbers2002.pdf">Reading 3</a>
 
 
 <hr/>
